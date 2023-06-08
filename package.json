@@ -5,7 +5,7 @@
         "build": "node make.js && webpack"
     },
     "devDependencies": {
-        "standard": "^10.0.3",
+        "standard": "^17.1.0",
         "webpack": "^3.6.0"
     },
     "standard": {
